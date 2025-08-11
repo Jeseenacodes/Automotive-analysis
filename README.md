@@ -28,7 +28,7 @@ The dataset contains the following columns:
 - Removing records where Weight > 4000.
 - Group-wise average calculations (e.g., average MSRP by Make).
 - Identifying top and bottom performers in Horsepower and MPG.
-- Visualizations including histograms and boxplots.
+- Visualizations including histograms & Scatterplots and boxplots.
 
 ## How to Run
 1. Clone the repository:
