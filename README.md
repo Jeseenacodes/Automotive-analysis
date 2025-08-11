@@ -33,4 +33,4 @@ The dataset contains the following columns:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jeseenacodes/car-data-analysis.git
+   git clone https://github.com/Jeseenacodes/Automotive-analysis.git
