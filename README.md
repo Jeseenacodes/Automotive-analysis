@@ -34,3 +34,6 @@ The dataset contains the following columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jeseenacodes/Automotive-analysis.git
+
+License
+MIT License 
